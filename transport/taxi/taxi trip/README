@@ -1,1 +1,9 @@
-Построена модель линейной регрессии по определению стоимости поездки в такси на базе датасета https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page по поездкам в такси в Нью-Йорке.
+Построена модель линейной регрессии по определению стоимости поездки в такси на базе датасета  
+https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page по поездкам в такси в Нью-Йорке.  
+
+В качестве данных были взяты данные о поездках на такси в Нью-Йорке в декабре 2019 года и 
+в январе 2020 года.
+
+https://nyc-tlc.s3.amazonaws.com/trip+data/yellow_tripdata_2019-12.csv  (декабрь 2019 года)  
+и  
+https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2020-01.csv  (январь 2020 года)
